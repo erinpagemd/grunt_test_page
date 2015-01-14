@@ -1,0 +1,19 @@
+{
+  "name": "grunt_test_page",
+  "version": "1.0.0",
+  "description": "using grunt instead of prepros",
+  "main": "public/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erinpagemd/grunt_test_page.git"
+  },
+  "author": "erin page",
+  "license": "mit",
+  "bugs": {
+    "url": "https://github.com/erinpagemd/grunt_test_page/issues"
+  },
+  "homepage": "https://github.com/erinpagemd/grunt_test_page"
+}

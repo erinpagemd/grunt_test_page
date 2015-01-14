@@ -1,0 +1,12 @@
+{
+  "name": "grunt_test_page",
+  "version": "0.0.0",
+  "homepage": "https://github.com/erinpagemd/grunt_test_page",
+  "authors": [
+    "erin page"
+  ],
+  "description": "using grunt instead of prepros",
+  "main": "public/index.html",
+  "license": "MIT",
+  "private": true
+}
